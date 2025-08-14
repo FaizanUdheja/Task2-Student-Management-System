@@ -17,7 +17,7 @@ In future we can add database concept for storing this Students detail permenant
 
 #### Output
 <img width="350" height="655" alt="image" src="https://github.com/user-attachments/assets/26bc35c5-d67c-405d-a221-7a61fb5e73a1" />
-<img width="500" height="780" alt="image" src="https://github.com/user-attachments/assets/f8d16588-b95f-429c-a8f5-5dcee18780a9" />
+<img width="450" height="780" alt="image" src="https://github.com/user-attachments/assets/f8d16588-b95f-429c-a8f5-5dcee18780a9" />
 <img width="451" height="274" alt="image" src="https://github.com/user-attachments/assets/5780cb4f-bdc8-4ad7-b75c-3d41cd1a2ef1" />
 
 
